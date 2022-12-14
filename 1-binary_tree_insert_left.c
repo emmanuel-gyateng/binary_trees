@@ -6,7 +6,7 @@
  * @parent: A pointer to the node to insert the left-child in.
  * @value: The value to store in the new node.
  *
- * Return: If parent is NULL or an error occurs - NULL.
+ * Return: If parent is NULL or an error occurs - NULL
  *         Otherwise - a pointer to the new node.
  *
  * Description: If parent already has a left-child, the new node
